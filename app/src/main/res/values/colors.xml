@@ -10,9 +10,9 @@
 	<color name="colorPrimaryDarkCryptionSelected">#B84DFF</color>
 	<color name="colorPrimaryDarkCryptionDisabled">#56018E</color>
 
-	<color name="baseColorCryption">#000064</color>
-	<color name="baseColorCryptionLight">#10106C</color>
-	<color name="baseColorCryptionDark">#080853</color>
+	<color name="baseColorCryption">#121212</color>
+	<color name="baseColorCryptionLight">#151515</color>
+	<color name="baseColorCryptionDark">#0E0E0E</color>
 
 	<color name="colorAccent">#54C1E3</color>
 	<color name="colorPrimaryLight">#AA54C1E3</color>

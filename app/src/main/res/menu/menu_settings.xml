@@ -9,5 +9,6 @@
         android:orderInCategory="20"
         android:title="@string/action_settings"
         app:showAsAction="always"
+        android:iconTint="@color/white"
         />
 </menu>
