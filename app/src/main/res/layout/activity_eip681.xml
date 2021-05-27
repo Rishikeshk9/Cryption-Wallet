@@ -83,7 +83,7 @@
             android:layout_below="@id/holding_view"
             android:layout_gravity="center_horizontal"
             android:layout_marginTop="10dp"
-            android:src="@drawable/ic_glob_gradient" />
+            android:src="@drawable/globe_gradient_logo" />
 
         <TextView
             android:id="@+id/address"
